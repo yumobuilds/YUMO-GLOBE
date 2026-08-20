@@ -57,10 +57,12 @@ The frame is entirely hand-bent from 1.5mm brass rod — no 3D printing, no lase
 
 📶 WiFiManager Portal
 No hardcoded credentials. Captive portal on first boot — saved forever after that.
+
 ────────────────────────
 📦 LIBRARIES USED
 FastLED · WiFiManager · ArduinoJson · PlatformIO
 ────────────────────────
+
 More YUMO BUILDS projects coming soon.
 💬 Drop a comment — what should I add next?
 
