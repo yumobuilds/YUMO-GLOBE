@@ -69,3 +69,13 @@ More YUMO BUILDS projects coming soon.
 💬 Drop a comment — what should I add next?
 
 #ESP32 #ESP32C3 #YumoBuilds #YumoClock #FastLED #SK6812 #NeoPixel #NTPClock #DIYClock #SmartClock #BrassWire #WireSculpture #WireArt #HandmadeTech #Maker #OpenSource #ArduinoProject #ElectronicsProject #DIYGadget #HomeMade
+
+────────────────────────
+
+## License
+
+This project's code is licensed under the [PolyForm Noncommercial 1.0.0](LICENSE) license — free for personal, non-commercial use.
+
+The physical design (hand-bent brass wire sculpture and wooden base) is licensed under [CC BY-NC-SA 4.0](LICENSE-HARDWARE).
+
+Non-commercial use only. Commercial use, manufacturing, or selling this design or derivatives of it requires explicit permission from the author.
